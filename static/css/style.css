@@ -1,0 +1,10 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+.jumbotron {
+    background-image: url("C:/Users/Danie/OneDrive/Desktop/Columbia_Bootcamp/Modules/Module_11/class/UFOs/images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
