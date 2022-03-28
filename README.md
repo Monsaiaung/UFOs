@@ -14,3 +14,11 @@ This image shows the html page that was created with javascript to hold Dana's a
 - On the right is the table with data showing the date, city, state, country, shape, duration and comments of the sighting. 
 
 ## Summary 
+
+- One drawback of this webpage is that the user might not know what to search for in filtering the data. It woulld be helpful if filtering the data has a drop down option so the user can easily click on particular data they want. 
+
+- Two additional recommendations for further development would be 
+   1. To clean and format the duration data have different format. For example, some data shows 10:00 which is unclear if it was 10 minutes or if the sighting was spotted at 10:00 am/pm. 
+   2. To let the user know the range of dates to search for. Currently it seems like the sightings only occured in the month of January. It will be much clearer for the user if one can know what data are availble and the limitations of the dataset.
+
+
